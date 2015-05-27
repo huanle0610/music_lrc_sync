@@ -1,0 +1,29 @@
+.skin-cruze {}
+.skin-cruze .column1 .selected, .skin-cruze .album-cover .album-hover, .skin-cruze .artist-status, .skin-clear .album-status {background-color: #5ea1bb;}
+.skin-cruze .ui-reelList-active {background: #5ea1bb !important;}
+.skin-cruze .mb-layout-hd {background: url("../images/kOnJqVgM.png") repeat-x;background-position: 0px -648px;}
+.skin-cruze .user-bar .myhome {background: url("../images/QDbfRSVr.png") no-repeat scroll right 6px;}
+.skin-cruze .ui-slider-handle-active {background: url("../images/kOnJqVgM.png") no-repeat -120px -324px;}
+.skin-cruze .odd {background: #f3faff;}
+.skin-cruze .column3 .lrc-wrapper .ui-lrc-current {color: #327088;font-weight: bold;}
+.skin-cruze .playmod .list-mode a.cur {background: url("../images/kOnJqVgM.png") no-repeat -192px -408px;}
+.skin-cruze .playmod .single-mode a.cur {background: url("../images/kOnJqVgM.png") no-repeat -192px -384px;}
+.skin-cruze .playmod .random-mode a.cur {background: url("../images/kOnJqVgM.png") no-repeat -192px -360px;}
+.skin-cruze #progressSlider.ui-slider-horizontal .ui-slider-range {background: url("../images/gjjwhuEN.png") 0px -468px repeat-x scroll;}
+.skin-cruze #Menu_AddTo .ui-menu-item a:hover, .skin-cruze .addto-newlist a:hover {background-color: #5ea1bb;color: #fff;}
+.skin-cruze .floatBtn.ui-floatbtn-active a.add {background: url("../images/kOnJqVgM.png") no-repeat -180px -480px;}
+.skin-cruze .floatBtn.ui-floatbtn-active a.download {background: url("../images/kOnJqVgM.png") no-repeat -204px -456px;}
+.skin-cruze .floatBtn.ui-floatbtn-active a.delete {background: url("../images/kOnJqVgM.png") no-repeat -216px -468px;}
+.skin-cruze .column1 .playing .listen-icon-playing {background: url("../images/OeVe5xmo.gif") no-repeat center center;}
+.skin-cruze .column1 .selected .listen-icon-playing {background: url("../images/zSGhlXp4.gif") no-repeat center center;}
+.skin-cruze .floatBtn a.delete:hover {background: url("../images/kOnJqVgM.png") no-repeat -216px -420px;}
+.skin-cruze .floatBtn a.download:hover {background: url("../images/kOnJqVgM.png") no-repeat -156px -480px;}
+.skin-cruze .floatBtn a.add:hover {background: url("../images/kOnJqVgM.png") no-repeat -192px -348px;}
+.skin-cruze .floatBtn.ui-floatbtn-active a.add:hover {background: url("../images/kOnJqVgM.png") no-repeat -204px -468px;}
+.skin-cruze .floatBtn.ui-floatbtn-active a.download:hover {background: url("../images/kOnJqVgM.png") no-repeat -216px -432px;}
+.skin-cruze .floatBtn.ui-floatbtn-active a.delete:hover {background: url("../images/kOnJqVgM.png") no-repeat -216px -444px;}
+.skin-cruze #toptip {left: 451px;}
+.skin-cruze .activity-detail {position: absolute;display: block;top: 0px;left: 50%;width: 355px;height: 100%;margin-left: -210px;text-indent: -9999px;}
+.skin-cruze .hq-switch {background: url("../images/kOnJqVgM.png") 0px -456px no-repeat;}
+.skin-cruze .similar-icon {background: url("../images/YQGO3dcb.png") no-repeat;_background: none;_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod="crop",src="../images/wmZrVSn1.png");background-position: -348px -24px;}
+.skin-cruze .ui-reelList-similar {color: #5ba1bc;}

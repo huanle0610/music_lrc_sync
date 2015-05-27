@@ -1,0 +1,29 @@
+.skin-clear {}
+.skin-clear .column1 .selected, .skin-clear .album-cover .album-hover, .skin-clear .artist-status, .skin-clear .album-status {background-color: #415382;}
+.skin-clear .ui-reelList-active {background: #415382 !important;}
+.skin-clear .mb-layout-hd {background: #251d1f;}
+.skin-clear .user-bar .myhome {background: url("../images/gk3TI3B2.png") no-repeat scroll right 6px;}
+.skin-clear .ui-slider-handle-active {background: url("../images/BF9cdIeM.png") no-repeat -180px 0px;}
+.skin-clear .odd {background: #f3faff;}
+.skin-clear .column3 .lrc-wrapper .ui-lrc-current {color: #415382;font-weight: bold;}
+.skin-clear #progressSlider.ui-slider-horizontal .ui-slider-range {background: url("../images/BF9cdIeM.png") 0px -396px repeat-x scroll;}
+.skin-clear .playmod .list-mode a.cur {background: url("../images/BF9cdIeM.png") no-repeat -156px 0px;}
+.skin-clear .playmod .single-mode a.cur {background: url("../images/BF9cdIeM.png") no-repeat -132px 0px;}
+.skin-clear .playmod .random-mode a.cur {background: url("../images/BF9cdIeM.png") no-repeat -108px 0px;}
+.skin-clear .skin-web-link {background: url("../images/kOnJqVgM.png") no-repeat;background-position: -216px -228px;}
+.skin-clear #Menu_AddTo .ui-menu-item a:hover, .skin-clear .addto-newlist a:hover {background-color: #415382;color: #fff;}
+.skin-clear .floatBtn.ui-floatbtn-active a.add {background: url("../images/kOnJqVgM.png") no-repeat -180px -480px;}
+.skin-clear .floatBtn.ui-floatbtn-active a.download {background: url("../images/kOnJqVgM.png") no-repeat -204px -456px;}
+.skin-clear .floatBtn.ui-floatbtn-active a.delete {background: url("../images/kOnJqVgM.png") no-repeat -216px -468px;}
+.skin-clear .column1 .playing .listen-icon-playing {background: url("../images/v50jXrjn.gif") no-repeat center center;}
+.skin-clear .column1 .selected .listen-icon-playing {background: url("../images/zSGhlXp4.gif") no-repeat center center;}
+.skin-clear .floatBtn a.delete:hover {background: url("../images/BF9cdIeM.png") no-repeat -156px -24px;}
+.skin-clear .floatBtn a.download:hover {background: url("../images/BF9cdIeM.png") no-repeat -168px -24px;}
+.skin-clear .floatBtn a.add:hover {background: url("../images/BF9cdIeM.png") no-repeat -132px -24px;}
+.skin-clear .floatBtn.ui-floatbtn-active a.add:hover {background: url("../images/BF9cdIeM.png") no-repeat -120px -24px;}
+.skin-clear .floatBtn.ui-floatbtn-active a.download:hover {background: url("../images/BF9cdIeM.png") no-repeat -108px -24px;}
+.skin-clear .floatBtn.ui-floatbtn-active a.delete:hover {background: url("../images/BF9cdIeM.png") no-repeat -144px -24px;}
+.skin-clear #toptip {left: 451px;}
+.skin-clear .activity-detail {position: absolute;display: block;top: 0px;left: 50%;width: 355px;height: 100%;margin-left: -210px;text-indent: -9999px;}
+.skin-clear .similar-icon {background: url("../images/YQGO3dcb.png") no-repeat;_background: none;_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod="crop",src="../images/bkDYR9Cb.png");background-position: -300px 0px;}
+.skin-clear .ui-reelList-similar {color: #405284;}

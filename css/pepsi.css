@@ -1,0 +1,37 @@
+.skin-pepsi {}
+.skin-pepsi .column1 .selected, .skin-pepsi .album-cover .album-hover, .skin-pepsi .artist-status, .skin-pepsi .album-status {background-color: #f4d988;}
+.skin-pepsi .ui-reelList-active {background: #edbf39 !important;}
+.skin-pepsi .user-bar .user-info li a {color: #664c00;}
+.skin-pepsi .mb-layout-hd {background: #edbf39;}
+.skin-pepsi .user-bar .myhome {background: url("../images/gwS7nHTG.png") no-repeat scroll right 6px;}
+.skin-pepsi .hq-switch {background: url("../images/DiBrLZut.png") 0px -108px no-repeat;}
+.skin-pepsi .ui-slider-handle-active {background: url("../images/DiBrLZut.png") no-repeat -108px -48px;}
+.skin-pepsi .odd {background: #faf8f4;}
+.skin-pepsi .column3 .lrc-wrapper .ui-lrc-current {color: #edbf39;font-weight: bold;}
+.skin-pepsi #progressSlider.ui-slider-horizontal .ui-slider-range {background: url("../images/DiBrLZut.png") 0px -228px repeat-x scroll;}
+.skin-pepsi .playmod .list-mode a.cur {background: url("../images/DiBrLZut.png") no-repeat -132px -24px;}
+.skin-pepsi .playmod .single-mode a.cur {background: url("../images/DiBrLZut.png") no-repeat -132px -48px;}
+.skin-pepsi .playmod .random-mode a.cur {background: url("../images/DiBrLZut.png") no-repeat -156px -24px;}
+.skin-pepsi .skin-web-link {background: url("../images/DiBrLZut.png") no-repeat;background-position: -180px -24px;}
+.skin-pepsi #Menu_AddTo .ui-menu-item a:hover, .skin-pepsi .addto-newlist a:hover {background-color: #f4d988;color: #fff;}
+.skin-pepsi .floatBtn.ui-floatbtn-active a.add {background: url("../images/DiBrLZut.png") no-repeat -180px 0px;}
+.skin-pepsi .floatBtn.ui-floatbtn-active a.download {background: url("../images/DiBrLZut.png") no-repeat -156px -60px;}
+.skin-pepsi .floatBtn.ui-floatbtn-active a.delete {background: url("../images/DiBrLZut.png") no-repeat -168px -60px;}
+.skin-pepsi .column1 .playing .listen-icon-playing {background: url("../images/470R2B00.gif") no-repeat center center;}
+.skin-pepsi .column1 .selected .listen-icon-playing {background: url("../images/zSGhlXp4.gif") no-repeat center center;}
+.skin-pepsi .floatBtn a.delete:hover {background: url("../images/DiBrLZut.png") no-repeat -180px -60px;}
+.skin-pepsi .floatBtn a.download:hover {background: url("../images/DiBrLZut.png") no-repeat -180px -12px;}
+.skin-pepsi .floatBtn a.add:hover {background: url("../images/DiBrLZut.png") no-repeat -180px -36px;}
+.skin-pepsi .floatBtn.ui-floatbtn-active a.add:hover {background: url("../images/DiBrLZut.png") no-repeat -156px -48px;}
+.skin-pepsi .floatBtn.ui-floatbtn-active a.download:hover {background: url("../images/DiBrLZut.png") no-repeat -168px -48px;}
+.skin-pepsi .floatBtn.ui-floatbtn-active a.delete:hover {background: url("../images/DiBrLZut.png") no-repeat -180px -48px;}
+.skin-pepsi #toptip {left: 451px;}
+.skin-pepsi .activity-detail {position: absolute;display: block;top: 0px;left: 50%;width: 355px;height: 100%;margin-left: -210px;text-indent: -9999px;}
+.skin-pepsi .column1 .selected .list-download-icon {background: url("../images/DiBrLZut.png") no-repeat;background-position: -132px 0px;}
+.skin-pepsi .column1 .selected .list-most-icon {background: url("../images/DiBrLZut.png") no-repeat;background-position: -156px 0px;}
+.skin-pepsi .column1 .selected .list-temp-icon {background: url("../images/DiBrLZut.png") no-repeat;background-position: -108px 0px;}
+.skin-pepsi .column1 .selected .list-history-icon {background: url("../images/DiBrLZut.png") no-repeat;background-position: -108px -24px;}
+.skin-pepsi #progressSlider.ui-slider-horizontal .ui-slider-handle-loading span {display: none;}
+.skin-pepsi .music-web a {}
+.skin-pepsi .similar-icon {background: url("../images/YQGO3dcb.png") no-repeat;_background: none;_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod="crop",src="../images/h41AH3Ih.png");background-position: -252px 0px;}
+.skin-pepsi .ui-reelList-similar {color: #eec023;}

@@ -1,0 +1,39 @@
+.skin-fruitmilk {}
+.skin-fruitmilk .column1 {background: none;}
+.skin-fruitmilk .hq-list .select {color: #28b3c3;}
+.skin-fruitmilk .mb-layout-hd {height: 46px;}
+.skin-fruitmilk .column1 .selected, .skin-fruitmilk .album-cover .album-hover, .skin-fruitmilk .artist-status, .skin-clear .album-status {background-color: #7ed1db;}
+.skin-fruitmilk .column1 .selected .list-most-icon {background: url("../images/kOnJqVgM.png") no-repeat;background-position: -216px -204px;}
+.skin-fruitmilk .column1 .selected .list-temp-icon {background: url("../images/kOnJqVgM.png") no-repeat;background-position: -216px -132px;}
+.skin-fruitmilk .column1 .selected .list-history-icon {background: url("../images/kOnJqVgM.png") no-repeat;background-position: -216px -360px;}
+.skin-fruitmilk .column1 .selected .list-download-icon {background: url("../images/kOnJqVgM.png") no-repeat;background-position: -204px -336px;}
+.skin-fruitmilk .user-bar .user-info li.separator {color: #068796;}
+.skin-fruitmilk .playlist-length-cloud {filter: alpha(opacity=70);-moz-opacity: 0.7;-khtml-opacity: 0.7;opacity: 0.7;}
+.skin-fruitmilk .skin-web-link {background: url("../images/kBEhjsKN.png") -456px -120px no-repeat;}
+.skin-fruitmilk .ui-reelList-active {background: #28b3c3 !important;}
+.skin-fruitmilk .mb-layout-hd {background: #28b3c3;}
+.skin-fruitmilk .baidu-fm a {background: url("../images/kBEhjsKN.png") -264px -108px no-repeat;}
+.skin-fruitmilk .ui-slider-handle-active {background: url("../images/kOnJqVgM.png") no-repeat -216px -72px;}
+.skin-fruitmilk .odd {background: #effdff;}
+.skin-fruitmilk .column3 .lrc-wrapper .ui-lrc-current {color: #28b3c3;font-weight: bold;}
+.skin-fruitmilk .playmod .list-mode a.cur {background: url("../images/kOnJqVgM.png") no-repeat -156px -456px;}
+.skin-fruitmilk .playmod .single-mode a.cur {background: url("../images/kOnJqVgM.png") no-repeat -180px -456px;}
+.skin-fruitmilk .playmod .random-mode a.cur {background: url("../images/kOnJqVgM.png") no-repeat -204px -288px;}
+.skin-fruitmilk #progressSlider.ui-slider-horizontal .ui-slider-range {background: url("../images/gjjwhuEN.png") 0px -492px repeat-x scroll;}
+.skin-fruitmilk #Menu_AddTo .ui-menu-item a:hover, .skin-fruitmilk .addto-newlist a:hover {background-color: #5ea1bb;color: #fff;}
+.skin-fruitmilk .floatBtn.ui-floatbtn-active a.add {background: url("../images/kOnJqVgM.png") no-repeat -180px -480px;}
+.skin-fruitmilk .floatBtn.ui-floatbtn-active a.download {background: url("../images/kOnJqVgM.png") no-repeat -204px -456px;}
+.skin-fruitmilk .floatBtn.ui-floatbtn-active a.delete {background: url("../images/kOnJqVgM.png") no-repeat -216px -468px;}
+.skin-fruitmilk .column1 .playing .listen-icon-playing {background: url("../images/iFGDSdoi.gif") no-repeat center center;}
+.skin-fruitmilk .column1 .selected .listen-icon-playing {background: url("../images//zSGhlXp4.gif") no-repeat center center;}
+.skin-fruitmilk .floatBtn a.delete:hover {background: url("../images/kOnJqVgM.png") no-repeat -192px -480px;}
+.skin-fruitmilk .floatBtn a.download:hover {background: url("../images/kOnJqVgM.png") no-repeat -216px -384px;}
+.skin-fruitmilk .floatBtn a.add:hover {background: url("../images/kOnJqVgM.png") no-repeat -216px -456px;}
+.skin-fruitmilk .floatBtn.ui-floatbtn-active a.add:hover {background: url("../images/kOnJqVgM.png") no-repeat -216px -396px;}
+.skin-fruitmilk .floatBtn.ui-floatbtn-active a.download:hover {background: url("../images/kOnJqVgM.png") no-repeat -144px -480px;}
+.skin-fruitmilk .floatBtn.ui-floatbtn-active a.delete:hover {background: url("../images/kOnJqVgM.png") no-repeat -216px -276px;}
+.skin-fruitmilk #toptip {left: 451px;}
+.skin-fruitmilk .activity-detail {position: absolute;display: block;top: 0px;left: 50%;width: 355px;height: 100%;margin-left: -210px;text-indent: -9999px;}
+.skin-fruitmilk .hq-switch {background: url("../images/kOnJqVgM.png") 0px -504px no-repeat;}
+.skin-fruitmilk .similar-icon {background: url("../images/YQGO3dcb.png") no-repeat;_background: none;_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod="crop",src="../images/R8Sb59pQ.png");background-position: -252px -24px;}
+.skin-fruitmilk .ui-reelList-similar {color: #18b3c4;}

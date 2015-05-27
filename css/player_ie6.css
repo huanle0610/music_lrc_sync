@@ -1,0 +1,72 @@
+.logo {background: url("../images/398duXMD.png") -3px -2px no-repeat;}
+.play {_margin-left: 26px;}
+.play a {background: url("../images/398duXMD.png") no-repeat -240px -12px;}
+.play a.wg-button-hover {background: url("../images/398duXMD.png") no-repeat -312px -13px;}
+.play a.wg-button-active {background: url("../images/398duXMD.png") no-repeat -312px -12px;}
+.stop a {background: url("../images/398duXMD.png") no-repeat -348px -12px;}
+.stop a.wg-button-hover {background: url("../images/398duXMD.png") no-repeat -276px -13px;}
+.stop a.wg-button-active {background: url("../images/398duXMD.png") no-repeat -276px -12px;}
+.prev a {background: url("../images/398duXMD.png") no-repeat -972px 2px;}
+.prev a.wg-button-hover {background: url("../images/398duXMD.png") no-repeat -685px -21px;}
+.prev a.wg-button-active {background: url("../images/398duXMD.png") no-repeat -685px -21px;}
+.next a {background: url("../images/398duXMD.png") no-repeat -708px 0px;}
+.next a.wg-button-hover {background: url("../images/398duXMD.png") no-repeat -925px -24px;}
+.next a.wg-button-active {background: url("../images/398duXMD.png") no-repeat -925px -23px;}
+.favor a {background: url("../images/398duXMD.png") -876px 0px no-repeat;text-indent: -999px;display: block !important;width: 20px;height: 16px;margin-right: 15px;}
+.main-panel .icons .s2m a {background: url("../images/398duXMD.png") -972px -24px no-repeat;}
+.unfavor a {background: url("../images/398duXMD.png") -444px 0px no-repeat;}
+.share a {background: url("../images/398duXMD.png") -564px 0px no-repeat;text-indent: -999px;display: block !important;width: 16px;height: 16px;}
+.share a.wg-button-hover {background: url("../images/398duXMD.png") -732px -24px no-repeat;}
+.share a.wg-button-active {background: url("../images/398duXMD.png") -540px -24px no-repeat;}
+.voice-of-china a {display: block;width: 16px;height: 16px;background: url("../images/398duXMD.png") no-repeat;cursor: pointer;background-position: -636px -24px;}
+.voice-of-china a.wg-button-hover {background: url("../images/398duXMD.png") no-repeat;background-position: -780px -24px;}
+.voice-of-china a.wg-button-active {margin-top: 1px;}
+#progressSlider.ui-slider-horizontal .ui-slider-handle {display: block;position: absolute;width: 18px;height: 18px;top: 0;left: 0;z-index: 101;margin: -5px 0 0 -9px;background: url("../images/398duXMD.png") no-repeat -756px 0px;font-size: 1px;cursor: pointer;outline: none;}
+#progressSlider.ui-slider-horizontal .ui-slider-handle-hover {background: url("../images/398duXMD.png") no-repeat -612px 0px;}
+#progressSlider.ui-slider-horizontal .ui-slider-handle-active {background: url("../images/398duXMD.png") no-repeat -516px -24px;}
+.playmod .random-mode a {background: url("../images/398duXMD.png") no-repeat -588px 0px;}
+.playmod .random-mode a.wg-button-hover {background: url("../images/398duXMD.png") no-repeat -756px -24px;}
+.playmod .random-mode a.wg-button-active {background: url("../images/398duXMD.png") no-repeat -756px -24px;}
+.playmod .random-mode a.cur {background: url("../images/398duXMD.png") no-repeat -708px -24px;}
+.playmod .single-mode a {background: url("../images/398duXMD.png") no-repeat -828px 0px;}
+.playmod .single-mode a.wg-button-hover {background: url("../images/398duXMD.png") no-repeat -732px 0px;}
+.playmod .single-mode a.wg-button-active {background: url("../images/398duXMD.png") no-repeat -732px 0px;}
+.playmod .single-mode a.cur {background: url("../images/398duXMD.png") no-repeat -612px -24px;}
+.playmod .list-mode a {background: url("../images/398duXMD.png") no-repeat -804px -24px;}
+.playmod .list-mode a.wg-button-hover {background: url("../images/398duXMD.png") no-repeat -588px -24px;}
+.playmod .list-mode a.wg-button-active {background: url("../images/398duXMD.png") no-repeat -588px -24px;}
+.playmod .list-mode a.cur {background: url("../images/398duXMD.png") no-repeat -564px -24px;}
+.volume .mute {background: url("../images/398duXMD.png") no-repeat -660px 0px;}
+.volume .mute:hover {background: url("../images/398duXMD.png") no-repeat -492px 0px;}
+.volume .mute:active {background: url("../images/398duXMD.png") no-repeat -492px 1px;}
+.volume .muted {background: url("../images/398duXMD.png") no-repeat -660px -24px;}
+.volume .muted:hover {background: url("../images/398duXMD.png") no-repeat -516px 0px;}
+.volume .muted:active {background: url("../images/398duXMD.png") no-repeat -516px 1px;}
+#volSlider {width: 100%;height: 4px;background: url("../images/398duXMD.png") no-repeat -384px -36px;border-radius: 2px;margin-top: 7px;position: relative;border: none;}
+#volSlider .ui-slider-handle {position: absolute;left: 0;top: 0;margin: -4px 0 0 -7px;width: 13px;height: 13px;background: url("../images/398duXMD.png") no-repeat -804px 0px;outline: none;}
+#volSlider .ui-slider-handle-hover {background: url("../images/398duXMD.png") no-repeat -780px 0px;}
+#volSlider .ui-slider-handle-active {background: url("../images/398duXMD.png") no-repeat -636px 0px;}
+.column1 .list-favor .icon {background: url("../images/398duXMD.png") no-repeat -492px -24px;line-height: 25px;}
+.column1 .selected .list-all-icon {background: url("../images/398duXMD.png") no-repeat -492px -26px;}
+.mylist .edit-icons .rename-icon {display: block;outline: none;text-decoration: none;width: 10px;height: 10px;margin: 8px 1px 0 0;background: url("../images/398duXMD.png") no-repeat -540px 0px;float: right;z-index: 10;line-height: 10px;font-size: 8px;}
+.mylist .edit-icons .rename-icon:hover {background: url("../images/398duXMD.png") no-repeat -852px 0px;}
+.mylist .edit-icons .delete-icon {display: block;outline: none;width: 8px;height: 8px;margin: 9px 0 0 6px;background: url("../images/398duXMD.png") no-repeat -684px 0px;float: right;z-index: 10;line-height: 8px;font-size: 8px;}
+.mylist .edit-icons .delete-icon:hover {background: url("../images/398duXMD.png") no-repeat -900px 0px;}
+.column1 .selected .edit-icons .rename-icon {background: url("../images/398duXMD.png") no-repeat -948px -24px;}
+.column1 .selected .edit-icons .rename-icon:hover {background: url("../images/398duXMD.png") no-repeat -924px 0px;}
+.column1 .selected .edit-icons .delete-icon {background: url("../images/398duXMD.png") no-repeat -372px 0px;}
+.column1 .selected .edit-icons .delete-icon:hover {background: url("../images/398duXMD.png") no-repeat -876px -24px;}
+.column1 .list-temp .icon {background: url("../images/398duXMD.png") no-repeat -828px -24px;line-height: 25px;}
+.column1 .selected .list-temp-icon {background: url("../images/398duXMD.png") no-repeat -468px 0px;}
+.column1 .list-history .icon {background: url("../images/398duXMD.png") no-repeat -468px -24px;line-height: 25px;}
+.column1 .selected .list-history-icon {background: url("../images/398duXMD.png") no-repeat -852px -24px;}
+.column1 .list-most .icon {background: url("../images/398duXMD.png") no-repeat -948px 0px;line-height: 25px;}
+.column1 .selected .list-most-icon {background: url("../images/398duXMD.png") no-repeat -900px -24px;}
+.column3 .split, .column3 .split2 {height: 2px;overflow: hidden;width: 205px;background: url("../images/398duXMD.png") -144px 0px no-repeat;}
+#search-sug-input:focus {}
+.brokenSong-icon {background: url("../images/398duXMD.png") no-repeat -423px 0px;}
+#backBtn {background: url("../images/eXHqz6eJ.png") 0 0 no-repeat;}
+.mobile-web-link {background: url("../images/398duXMD.png") -149px -12px no-repeat;}
+#hqSwitch .ui-switchbutton-handle {background: url("../images/398duXMD.png") no-repeat -384px 0px;}
+.ui-switchbutton .ui-switchbutton-disabled {background: url("../images/398duXMD.png") no-repeat -192px -36px;}
+.ui-switchbutton .ui-switchbutton-enabled {background: url("../images/398duXMD.png") no-repeat -144px -36px;}

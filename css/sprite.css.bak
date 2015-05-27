@@ -1,0 +1,35 @@
+.skin-sprite {}
+.skin-sprite .column1 .selected, .skin-sprite .album-cover .album-hover, .skin-sprite .artist-status, .skin-sprite .album-status {background-color: #078232;}
+.skin-sprite .ui-reelList-active {background: #078232 !important;}
+.skin-sprite .mb-layout-hd {height: 44px;background: #078232;}
+.skin-sprite .top-banner {background: url("http://mu8.bdstatic.com/player/t/i/HM9kBxHj.jpg") no-repeat;background-position: center;}
+.skin-sprite .top-banner .logo-wrapper {height: 44px;}
+.skin-sprite .hq-switch {padding-left: 24px;padding-top: 2px;background: url("http://mu8.bdstatic.com/player/t/i/zWwSjHvn.png") 0px -36px no-repeat;_background: none;_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod="corp",src="http://mu9.bdstatic.com/player/t/i/OddKP076.png");}
+.skin-sprite .odd {background: #edf8f1;}
+.skin-sprite .column3 .lrc-wrapper .ui-lrc-current {color: #078232;font-weight: bold;}
+.skin-sprite #progressSlider.ui-slider-horizontal .ui-slider-range {background: url("http://mu8.bdstatic.com/player/t/i/zWwSjHvn.png") 0px -84px repeat-x scroll;}
+.skin-sprite .playmod .list-mode a.cur {background: url("http://mu8.bdstatic.com/player/t/i/zWwSjHvn.png") no-repeat -132px -60px;_background: none;_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod="corp",src="http://mu8.bdstatic.com/player/t/i/bVQy6iaa.png");}
+.skin-sprite .playmod .single-mode a.cur {background: url("http://mu8.bdstatic.com/player/t/i/zWwSjHvn.png") no-repeat -156px -36px;_background: none;_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod="corp",src="http://mu8.bdstatic.com/player/t/i/zIj2FYIW.png");}
+.skin-sprite .playmod .random-mode a.cur {background: url("http://mu8.bdstatic.com/player/t/i/zWwSjHvn.png") no-repeat -132px -36px;_background: none;_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod="corp",src="http://mu9.bdstatic.com/player/t/i/YwIyOSK7.png");}
+.skin-sprite .floatBtn.ui-floatbtn-active a.add {background: url("http://mu8.bdstatic.com/player/t/i/zWwSjHvn.png") no-repeat -180px -48px;}
+.skin-sprite .floatBtn.ui-floatbtn-active a.download {background: url("http://mu8.bdstatic.com/player/t/i/zWwSjHvn.png") no-repeat -180px -72px;}
+.skin-sprite .floatBtn.ui-floatbtn-active a.delete {background: url("http://mu8.bdstatic.com/player/t/i/zWwSjHvn.png") no-repeat -180px -60px;}
+.skin-sprite .column1 .playing .listen-icon-playing {background: url("http://mu9.bdstatic.com/player/t/i/ohImOXUq.gif") no-repeat center center;}
+.skin-sprite .column1 .selected .listen-icon-playing {background: url("http://mu8.bdstatic.com/player/t/i/zSGhlXp4.gif") no-repeat center center;}
+.skin-sprite .floatBtn a.delete:hover {background: url("http://mu8.bdstatic.com/player/t/i/zWwSjHvn.png") no-repeat -157px -60px;}
+.skin-sprite .floatBtn a.download:hover {background: url("http://mu8.bdstatic.com/player/t/i/zWwSjHvn.png") no-repeat -156px -72px;}
+.skin-sprite .floatBtn a.add:hover {background: url("http://mu8.bdstatic.com/player/t/i/zWwSjHvn.png") no-repeat -180px -36px;}
+.skin-sprite .floatBtn.ui-floatbtn-active a.add:hover {background: url("http://mu8.bdstatic.com/player/t/i/zWwSjHvn.png") no-repeat -180px -48px;}
+.skin-sprite .floatBtn.ui-floatbtn-active a.download:hover {background: url("http://mu8.bdstatic.com/player/t/i/zWwSjHvn.png") no-repeat -180px -72px;}
+.skin-sprite .floatBtn.ui-floatbtn-active a.delete:hover {background: url("http://mu8.bdstatic.com/player/t/i/zWwSjHvn.png") no-repeat -180px -60px;}
+.skin-sprite #toptip {left: 451px;}
+.skin-sprite .activity-detail {position: absolute;display: block;top: 0px;left: 50%;width: 355px;height: 100%;margin-left: -210px;text-indent: -9999px;}
+.skin-sprite .rightAd-con {display: none;}
+.skin-sprite .rightAd-skin {display: block;background: url("http://mu8.bdstatic.com/player/t/i/lxMc7dPV.jpg") no-repeat;}
+.rightAd-skin a {width: 100%;height: 100%;position: absolute;top: 0;left: 0;z-index: 2;_background: red;_filter: alpha(opacity=0);}
+.rightAd-skin .flash-wrap {position: absolute;top: 0;left: 0;width: 100%;height: 100%;z-index: 1;}
+.skin-sprite .down-mobile, .skin-sprite #toptip {display: none !important;}
+.skin-sprite .sprite-ad {position: absolute;display: block;width: 440px;height: 45px;top: 0;left: 50%;margin-left: -220px;}
+.skin-sprite .sprite-ad a {display: block;width: 100%;height: 100%;}
+.skin-sprite .similar-icon {background: url("http://mu9.bdstatic.com/player/t/i/YQGO3dcb.png") no-repeat;_background: none;_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod="crop",src="http://mu9.bdstatic.com/player/t/i/1YiqzfZh.png");background-position: -324px -24px;}
+.skin-sprite .ui-reelList-similar {color: #00832d;}

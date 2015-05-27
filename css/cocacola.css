@@ -1,0 +1,38 @@
+.skin-cocacola {}
+.skin-cocacola .column1 .selected, .skin-cocacola .album-cover .album-hover, .skin-cocacola .artist-status, .skin-cocacola .album-status {background-color: #e0051c;}
+.skin-cocacola .ui-reelList-active {background: #e0051c !important;}
+.skin-cocacola .mb-layout-hd {height: 44px;background: url("../images/0pkNA6rb.jpg") repeat-x;}
+/*.skin-cocacola .top-banner {background: url("../images/x7trcTQx.jpg") no-repeat;background-position: center;}*/
+.skin-cocacola .top-banner .logo-wrapper {height: 44px;}
+.skin-cocacola .hq-switch {padding-left: 24px;padding-top: 2px;background: url("../images/9gx2Coyp.png") 0px -144px no-repeat;_background: none;_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod="corp",src="../images/qTbpACU7.png");}
+.skin-cocacola .odd {background: #fff9fa;}
+.skin-cocacola .column1 .selected .list-temp-icon {background: url("../images/9gx2Coyp.png") no-repeat -168px -24px;}
+.skin-cocacola .column3 .lrc-wrapper .ui-lrc-current {color: #e0051c;font-weight: bold;}
+.skin-cocacola #progressSlider.ui-slider-horizontal .ui-slider-range {background: url("../images/9gx2Coyp.png") 0px -192px repeat-x scroll;}
+/*
+.skin-cocacola #progressSlider.ui-slider-horizontal .ui-slider-handle {background: url("../images/9gx2Coyp.png") -108px 0px no-repeat;width: 25px;height: 25px;margin: -7px 0 0 -9px;}*/
+
+.skin-cocacola .playmod .list-mode a.cur {background: url("../images/9gx2Coyp.png") no-repeat -144px 0px;_background: none;_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod="corp",src="../images/npwFpKDR.png");}
+.skin-cocacola .playmod .single-mode a.cur {background: url("../images/9gx2Coyp.png") no-repeat -168px 0px;_background: none;_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod="corp",src="../images/v4BbMr9Y.png");}
+.skin-cocacola .playmod .random-mode a.cur {background: url("../images/9gx2Coyp.png") no-repeat -144px -25px;_background: none;_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod="corp",src="../images/FeLLO3LH.png");}
+.skin-cocacola .floatBtn.ui-floatbtn-active a.add {background: url("../images/9gx2Coyp.png") no-repeat -132px -36px;}
+.skin-cocacola .floatBtn.ui-floatbtn-active a.download {background: url("../images/9gx2Coyp.png") no-repeat -144px -48px;}
+.skin-cocacola .floatBtn.ui-floatbtn-active a.delete {background: url("../images/9gx2Coyp.png") no-repeat -132px -48px;}
+.skin-cocacola .column1 .playing .listen-icon-playing {background: url("../images/j5F0JT17.gif") no-repeat center center;}
+.skin-cocacola .column1 .selected .listen-icon-playing {background: url("../images/zSGhlXp4.gif") no-repeat center center;}
+.skin-cocacola .floatBtn a.delete:hover {background: url("../images/9gx2Coyp.png") no-repeat -109px -36px;}
+.skin-cocacola .floatBtn a.download:hover {background: url("../images/9gx2Coyp.png") no-repeat -120px -48px;}
+.skin-cocacola .floatBtn a.add:hover {background: url("../images/9gx2Coyp.png") no-repeat -108px -48px;}
+.skin-cocacola .floatBtn.ui-floatbtn-active a.add:hover {background: url("../images/9gx2Coyp.png") no-repeat -132px -36px;}
+.skin-cocacola .floatBtn.ui-floatbtn-active a.download:hover {background: url("../images/9gx2Coyp.png") no-repeat -144px -48px;}
+.skin-cocacola .floatBtn.ui-floatbtn-active a.delete:hover {background: url("../images/9gx2Coyp.png") no-repeat -132px -48px;}
+.skin-cocacola #toptip {left: 451px;}
+.skin-cocacola .activity-detail {position: absolute;display: block;top: 0px;left: 50%;width: 355px;height: 100%;margin-left: -210px;text-indent: -9999px;}
+.skin-cocacola .rightAd-con {display: none;}
+.skin-cocacola .rightAd-skin {display: block;background: url("../images/AkwQs25p.jpg") no-repeat;}
+.rightAd-skin a {width: 100%;height: 100%;position: absolute;top: 0;left: 0;z-index: 2;_background: red;_filter: alpha(opacity=0);}
+.rightAd-skin .flash-wrap {position: absolute;top: 0;left: 0;width: 100%;height: 100%;z-index: 1;}
+.skin-cocacola .down-mobile, .skin-cocacola #toptip {display: none !important;}
+.skin-cocacola .cocacola-ad {position: absolute;display: block;width: 440px;height: 45px;top: 0;left: 50%;margin-left: -220px;}
+.skin-cocacola .cocacola-ad a {display: block;width: 100%;height: 100%;}
+.skin-cocacola .ui-reelList .ui-reelList-insert .cur-similar {background: url("../images/pRx6w2zk.gif") no-repeat;}

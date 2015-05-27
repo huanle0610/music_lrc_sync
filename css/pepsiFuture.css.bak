@@ -1,0 +1,35 @@
+.skin-pepsiFuture {}
+.skin-pepsiFuture .column1 .selected, .skin-pepsiFuture .album-cover .album-hover, .skin-pepsiFuture .artist-status, .skin-pepsiFuture .album-status {background-color: #1c71e5;}
+.skin-pepsiFuture .ui-reelList-active {background: #1c71e5 !important;}
+.skin-pepsiFuture .mb-layout-hd {height: 44px;background: #011c6d;}
+.skin-pepsiFuture .top-banner {background: url("../images/LYmZ0Oul.jpg") no-repeat;background-position: center;}
+.skin-pepsiFuture .top-banner .logo-wrapper {height: 44px;}
+.skin-pepsiFuture .hq-switch {padding-left: 24px;padding-top: 2px;background: url("../images/0kkuNqbd.png") 0px -144px no-repeat;_background: none;_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod="corp",src="../images/lmfPwDI8.png");}
+.skin-pepsiFuture #progressSlider.ui-slider-horizontal .ui-slider-handle {background: url("../images/0kkuNqbd.png") no-repeat -132px 0px;_background: none;_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod="corp",src="../images/lQxtssyO.png");width: 20px;height: 21px;}
+.skin-pepsiFuture .odd {background: #eff3ff;}
+.skin-pepsiFuture .column3 .lrc-wrapper .ui-lrc-current {color: #011c6d;font-weight: bold;}
+.skin-pepsiFuture #progressSlider.ui-slider-horizontal .ui-slider-range {background: url("../images/0kkuNqbd.png") 0px -192px repeat-x scroll;}
+.skin-pepsiFuture .playmod .list-mode a.cur {background: url("../images/0kkuNqbd.png") no-repeat -108px 0px;_background: none;_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod="corp",src="../images/GmLnf5w1.png");}
+.skin-pepsiFuture .playmod .single-mode a.cur {background: url("../images/0kkuNqbd.png") no-repeat -108px -24px;_background: none;_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod="corp",src="../images/nNSJQ15C.png");}
+.skin-pepsiFuture .playmod .random-mode a.cur {background: url("../images/0kkuNqbd.png") no-repeat -156px -1px;_background: none;_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(sizingMethod="corp",src="../images/RocmnJso.png");}
+.skin-pepsiFuture .floatBtn.ui-floatbtn-active a.add {background: url("../images/0kkuNqbd.png") no-repeat -180px -12px;}
+.skin-pepsiFuture .floatBtn.ui-floatbtn-active a.download {background: url("../images/0kkuNqbd.png") no-repeat -144px -36px;}
+.skin-pepsiFuture .floatBtn.ui-floatbtn-active a.delete {background: url("../images/0kkuNqbd.png") no-repeat -180px -24px;}
+.skin-pepsiFuture .column1 .playing .listen-icon-playing {background: url("../images/Ahbx5akI.gif") no-repeat center center;}
+.skin-pepsiFuture .column1 .selected .listen-icon-playing {background: url("../images/zSGhlXp4.gif") no-repeat center center;}
+.skin-pepsiFuture .floatBtn a.delete:hover {background: url("../images/0kkuNqbd.png") no-repeat -157px -24px;}
+.skin-pepsiFuture .floatBtn a.download:hover {background: url("../images/0kkuNqbd.png") no-repeat -132px -24px;}
+.skin-pepsiFuture .floatBtn a.add:hover {background: url("../images/0kkuNqbd.png") no-repeat -132px -36px;}
+.skin-pepsiFuture .floatBtn.ui-floatbtn-active a.add:hover {background: url("../images/0kkuNqbd.png") no-repeat -180px -12px;}
+.skin-pepsiFuture .floatBtn.ui-floatbtn-active a.download:hover {background: url("../images/0kkuNqbd.png") no-repeat -144px -36px;}
+.skin-pepsiFuture .floatBtn.ui-floatbtn-active a.delete:hover {background: url("../images/0kkuNqbd.png") no-repeat -180px 0px;}
+.skin-pepsiFuture #toptip {left: 451px;}
+.skin-pepsiFuture .activity-detail {position: absolute;display: block;top: 0px;left: 50%;width: 355px;height: 100%;margin-left: -210px;text-indent: -9999px;}
+.skin-pepsiFuture .rightAd-con {display: none;}
+.skin-pepsiFuture .rightAd-skin {display: block;background: url("../images/SyMbKPtX.jpg") no-repeat;}
+.rightAd-skin a {width: 100%;height: 100%;position: absolute;top: 0;left: 0;z-index: 2;_background: red;_filter: alpha(opacity=0);}
+.rightAd-skin .flash-wrap {position: absolute;top: 0;left: 0;width: 100%;height: 100%;z-index: 1;}
+.skin-pepsiFuture .down-mobile, .skin-pepsiFuture #toptip {display: none !important;}
+.skin-pepsiFuture .pepsiFuture-ad {position: absolute;display: block;width: 440px;height: 45px;top: 0;left: 50%;margin-left: -220px;}
+.skin-pepsiFuture .pepsiFuture-ad a {display: block;width: 100%;height: 100%;}
+.skin-pepsiFuture .ui-reelList .ui-reelList-insert .cur-similar {background: url("../images/JIWgBG1E.gif") no-repeat;}
